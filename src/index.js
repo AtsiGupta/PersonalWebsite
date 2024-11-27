@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import "@fortawesome/fontawesome-free/css/all.min.css";
+//import 'https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
