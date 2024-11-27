@@ -34,9 +34,12 @@ function App() {
                   <h2 className="text-3xl font-semibold mt-2">
                     Personal Website
                   </h2>
-                  <p className="text-lg italic mt-4">
-                    Computer Engineering and ILEE student at the University of
-                    Illinois Urbana-Champaign
+                  {/* Adjusted Majors Text */}
+                  <p className="text-lg italic mt-4 text-center">
+                    Computer Engineering and ILEE student{" "}
+                    <span className="block md:inline">
+                      at the University of Illinois Urbana-Champaign
+                    </span>
                   </p>
                 </header>
               </div>
