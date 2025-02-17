@@ -23,7 +23,7 @@ const Education = () => {
             University of Illinois Urbana-Champaign
           </h3>
           <p>
-            <span className="font-semibold">August 2022 to May 2024:</span>{" "}
+            <span className="font-semibold">August 2022 to May 2026:</span>{" "}
             <br /> B.S. in Computer Engineering & B.S. in Innovation Leadership
             Entrepreneurship in Engineering
           </p>
